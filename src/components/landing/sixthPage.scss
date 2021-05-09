@@ -1,0 +1,123 @@
+.sixth_main_container {
+	position: absolute;
+	// top: 100vh;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	background-color: #191919;
+}
+
+.sixth_main_content {
+	position: absolute;
+	top: 30%;
+	width: 900px;
+	height: 300px;
+	// border-style: solid;
+	// border-color: blue;
+}
+
+.sixth_main_content__title {
+	width: 773px;
+
+	text-align: left;
+	margin-left: 150px;
+	font: normal normal bold 50px/79px Arial, Helvetica, sans-serif;
+	letter-spacing: 6px;
+	color: #d34848;
+	opacity: 1;
+}
+
+.sixth_main_content__desc {
+	width: 700px;
+	height: auto;
+	margin-left: 150px;
+	padding: 10px;
+	position: relative;
+
+	text-align: left;
+	font: normal normal normal 32px/44px Arial, Helvetica, sans-serif;
+	letter-spacing: 3.2px;
+	color: #ffffff;
+	opacity: 1;
+
+	// border-style: solid;
+	// border-color: RED;
+}
+
+.sixth_main_content__button {
+	position: absolute;
+	left: 70%;
+	top: 35%;
+	width: 250px;
+	height: 300px;
+
+	height: auto;
+	padding: 0px;
+
+	align-content: left;
+	justify-content: left;
+	display: flex;
+}
+
+.sixth_footer {
+	position: absolute;
+	left: 0%;
+	top: 60%;
+	width: 100%;
+	height: 100%;
+	background-color: #5e33d1;
+}
+
+.sixth_footer__contact_email {
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	// width: 100%;
+	// height: 100%;
+
+	text-align: left;
+	font: normal normal normal 20px/31px Arial, Helvetica, sans-serif;
+	letter-spacing: 3.5px;
+	color: #ffffff;
+	opacity: 1;
+
+	// border-style: solid;
+	// border-color: blue;
+}
+
+.email_icon {
+	color: white;
+	position: absolute;
+	left: 7%;
+	top: 10%;
+	height: 30px;
+	width: 30px;
+}
+
+.sixth_footer__logo {
+	position: relative;
+	// left: 45%;
+	top: 20%;
+	// width: 100%;
+	// height: 100%;
+
+	text-align: center;
+	font: normal normal normal 35px/41px Arial, Helvetica, sans-serif;
+	letter-spacing: 4.8px;
+	color: #ffffff;
+	opacity: 1;
+}
+
+.sixth_footer__terms {
+	position: relative;
+	// left: 45%;
+	top: 25%;
+	// width: 100%;
+	// height: 100%;
+
+	text-align: center;
+	font: normal normal normal 14px/19px Arial, Helvetica, sans-serif;
+	letter-spacing: 2.4px;
+	color: #ffffff;
+	opacity: 1;
+}

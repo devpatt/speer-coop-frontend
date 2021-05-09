@@ -1,0 +1,204 @@
+.pricing_second_main_container {
+	position: absolute;
+	// top: 100vh;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	background-color: #d34848;
+}
+
+// .hamburgerMenu2 {
+// 	position: absolute;
+// 	flex: 1;
+// 	flex-direction: column;
+// 	left: 83px;
+// 	top: 86px;
+// }
+
+// .hamburgerMenuLine {
+// 	width: 40px;
+// 	height: 3px;
+// 	background-color: white;
+// 	margin: 10px 0;
+// }
+
+// .title2 {
+// 	position: absolute;
+
+// 	left: 150px;
+// 	top: 82px;
+
+// 	text-align: left;
+// 	font: normal normal normal 48px/57px Arial, Helvetica, sans-serif;
+// 	letter-spacing: 4.8px;
+// 	color: #ffffff;
+// 	opacity: 1;
+// }
+
+.pricing_second_main_content__title {
+	text-align: left;
+	margin-left: 150px;
+	font: normal normal bold 50px/79px Arial, Helvetica, sans-serif;
+	letter-spacing: 6px;
+	color: #ffffff;
+	opacity: 1;
+
+	position: absolute;
+	left: 0%;
+	top: 20%;
+	// transform: translate(-50%, -50%);
+	width: 400px;
+	height: 100px;
+	// border-style: solid;
+	// border-color: blue;
+}
+
+.pricing_second_main_content1 {
+	position: absolute;
+	left: 0%;
+	top: 30%;
+	// transform: translate(-50%, -50%);
+	width: 33%;
+	height: 300px;
+	// border-style: solid;
+	// border-color: blue;
+	flex: 1;
+	flex-direction: row;
+	padding-top: 40px;
+}
+.pricing_second_main_content2 {
+	position: absolute;
+	left: 33%;
+	top: 30%;
+	// transform: translate(-50%, -50%);
+	width: 34%;
+	height: 300px;
+	// border-style: solid;
+	// border-color: blue;
+	flex: 1;
+	flex-direction: row;
+	padding-top: 40px;
+}
+.pricing_second_main_content3 {
+	position: absolute;
+	left: 67%;
+	top: 30%;
+	// transform: translate(-50%, -50%);
+	width: 34%;
+	height: 300px;
+	// border-style: solid;
+	// border-color: blue;
+	flex: 1;
+	flex-direction: row;
+	padding-top: 40px;
+}
+.pricing_second_main_content1__title {
+	// width: 300px;
+	// height: 150px;
+	margin-left: 140px;
+
+	text-align: left;
+	font: normal normal bold 31px/32px Arial, Helvetica, sans-serif;
+	letter-spacing: 5.1px;
+	color: #ffffff;
+	opacity: 1;
+
+	// border-style: solid;
+	// border-color: RED;
+}
+
+.pricing_second_main_content1__desc {
+	margin-left: 140px;
+	padding-top: 10px;
+	text-align: left;
+	font: normal normal normal 20px/21px Arial, Helvetica, sans-serif;
+	letter-spacing: 3.5px;
+	color: #0b0b0b;
+	opacity: 1;
+}
+
+.pricing_second_main_content2__title {
+	// width: 300px;
+	// height: 150px;
+	margin-left: 70px;
+	margin-right: 70px;
+
+	text-align: left;
+	font: normal normal bold 31px/32px Arial, Helvetica, sans-serif;
+	letter-spacing: 5.1px;
+	color: #ffffff;
+	opacity: 1;
+
+	// border-style: solid;
+	// border-color: RED;
+}
+
+.pricing_second_main_content2__desc {
+	margin-left: 70px;
+	margin-right: 70px;
+	padding-top: 10px;
+	text-align: left;
+	font: normal normal normal 20px/21px Arial, Helvetica, sans-serif;
+	letter-spacing: 3.5px;
+	color: #0b0b0b;
+	opacity: 1;
+}
+.pricing_second_main_content3__title {
+	// width: 300px;
+	// height: 150px;
+	margin-right: 140px;
+
+	text-align: left;
+	font: normal normal bold 31px/32px Arial, Helvetica, sans-serif;
+	letter-spacing: 5.1px;
+	color: #ffffff;
+	opacity: 1;
+
+	// border-style: solid;
+	// border-color: RED;
+}
+
+.pricing_second_main_content3__desc {
+	margin-right: 140px;
+	padding-top: 10px;
+	text-align: left;
+	font: normal normal normal 20px/21px Arial, Helvetica, sans-serif;
+	letter-spacing: 3.5px;
+	color: #0b0b0b;
+	opacity: 1;
+}
+// .top__button {
+// 	position: absolute;
+// 	right: 150px;
+// 	top: 70px;
+
+// 	border-style: solid;
+// 	border-color: RED;
+// }
+
+// .white_button:hover {
+// 	background-image: linear-gradient(
+// 		to right,
+// 		#1fe1e9 0%,
+// 		#5e33d1 51%,
+// 		#1fe1e9 100%
+// 	);
+// 	background-position: right center; /* change the direction of the change here */
+// 	color: #ffffff;
+// 	text-decoration: none;
+// }
+
+// .white_button {
+// 	margin: 10px;
+// 	padding: 15px 30px;
+// 	text-align: center;
+// 	text-transform: uppercase;
+// 	transition: 0.5s;
+// 	background-size: 200% auto;
+// 	color: #ffb33f;
+// 	// box-shadow: 0 0 10px #eee;
+// 	border-radius: 25px;
+// 	// display: block;
+// 	width: 200px;
+// 	border-width: 0px;
+// }

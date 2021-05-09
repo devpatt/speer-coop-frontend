@@ -1,0 +1,108 @@
+.first_main_container {
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+
+.first_main_content {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 1396px;
+	height: 300px;
+}
+
+.first_main_content__title {
+	width: 1396px;
+
+	text-align: center;
+	font: normal normal bold 50px/79px Arial, Helvetica, sans-serif;
+	letter-spacing: 6px;
+	color: #ffffff;
+	opacity: 1;
+}
+
+.first_main_content__desc {
+	width: 820px;
+	height: auto;
+	margin: 0 auto;
+	padding: 10px;
+	position: relative;
+
+	text-align: center;
+	font: normal normal normal 32px/44px Arial, Helvetica, sans-serif;
+	letter-spacing: 3.2px;
+	color: #ffffff;
+	opacity: 1;
+}
+
+.first_main_content__button {
+	width: 820px;
+	height: auto;
+	margin: 0 auto;
+	padding: 0px;
+	position: relative;
+
+	align-content: center;
+	justify-content: center;
+	justify-items: center;
+}
+
+.btn-grad {
+	background-image: linear-gradient(
+		to right,
+		#feac5e 0%,
+		#c779d0 51%,
+		#feac5e 100%
+	);
+}
+.btn-grad {
+	margin: 10px;
+	padding: 15px 30px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	// box-shadow: 0 0 10px #eee;
+	border-radius: 25px;
+	// display: block;
+	width: 200px;
+	border-width: 0px;
+	cursor: pointer;
+}
+
+.btn-grad:hover {
+	background-position: right center; /* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+}
+
+.hamburgerMenu {
+	position: absolute;
+	flex: 1;
+	flex-direction: column;
+	left: 83px;
+	top: 86px;
+}
+
+.hamburgerMenuLine {
+	width: 40px;
+	height: 3px;
+	background-color: white;
+	margin: 10px 0;
+}
+
+.title {
+	position: absolute;
+
+	left: 150px;
+	top: 62px;
+
+	text-align: left;
+	font: normal normal normal 48px/57px Arial, Helvetica, sans-serif;
+	letter-spacing: 4.8px;
+	color: #ffffff;
+	opacity: 1;
+}

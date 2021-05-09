@@ -1,0 +1,48 @@
+html,
+body {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+.title {
+	margin: 20px auto 0;
+	text-align: center;
+}
+
+.links {
+	display: flex;
+	flex-direction: column;
+	margin-left: 50px;
+}
+
+.links .link {
+	margin-top: 20px;
+}
+
+.component {
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+
+.component.first-component {
+	background-color: gray;
+	position: relative;
+}
+
+.first-component--inside-scroller {
+	position: absolute;
+	right: 20px;
+	top: 100px;
+}
+
+.component.second-component {
+	background-color: red;
+}
+
+h2 {
+	margin: auto;
+	text-align: center;
+}
