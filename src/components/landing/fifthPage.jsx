@@ -1,11 +1,11 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import speaker1 from "../../assets/landing/SmallSpeaker1-03.png";
 import speaker2 from "../../assets/landing/SmallSpeaker2-03.png";
 import { FaStar } from "react-icons/fa";
 import "./fifthPage.scss";
 
-export default () => {
+const FifthComponent = () => {
 	return (
 		<div className="fifth_main_container">
 			<div className="hamburgerMenu" onClick={console.log("hi")}>
@@ -16,7 +16,7 @@ export default () => {
 
 			<div className="title">EXP|CON</div>
 			<div className="top__button">
-				<Link to="/pricing">
+				<Link to="/speer-coop-frontend/pricing">
 					<button className="white_button">TRY IT NOW</button>
 				</Link>
 			</div>
@@ -69,3 +69,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default FifthComponent;

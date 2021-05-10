@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import { MdEmail } from "react-icons/md";
 
 import "./sixthPage.scss";
 
-export default () => {
+const SixthComponent = () => {
 	return (
 		<div className="sixth_main_container">
 			<div className="hamburgerMenu">
@@ -25,7 +25,7 @@ export default () => {
 				</div>
 			</div>
 			<div className="sixth_main_content__button">
-				<Link to="/pricing">
+				<Link to="/speer-coop-frontend/pricing">
 					<button className="black_bg_button">TRY IT NOW</button>
 				</Link>
 			</div>
@@ -43,3 +43,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default SixthComponent;

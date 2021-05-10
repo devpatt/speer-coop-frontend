@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 
 import "./firstPage.scss";
 
-export default () => {
+const FirstComponent = () => {
 	return (
 		<div className="pricing_first_main_container">
 			<div className="hamburgerMenu" onClick={console.log("hi")}>
@@ -67,3 +67,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default FirstComponent;

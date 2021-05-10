@@ -7,7 +7,7 @@ import image2 from "../../assets/landing/Image2.png";
 import image3 from "../../assets/landing/Image3.png";
 import "./firstPage.scss";
 
-export default () => {
+const FirstComponent = () => {
 	return (
 		<div className="first_main_container">
 			<BackgroundSlider
@@ -38,7 +38,7 @@ export default () => {
 					{/* <a href="#" class="btn-mix-noborder" data-text="TRY IT NOW">
 						TRY IT NOW
 					</a> */}
-					<Link to="/pricing">
+					<Link to="/speer-coop-frontend/pricing">
 						<button className="btn-grad">TRY IT NOW</button>
 					</Link>
 				</div>
@@ -46,3 +46,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default FirstComponent;

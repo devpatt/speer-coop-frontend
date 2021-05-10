@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import { MdEmail } from "react-icons/md";
 
 import "./secondPage.scss";
 
-export default () => {
+const SecondComponent = () => {
 	return (
 		<div className="pricing_second_main_container">
 			<div className="hamburgerMenu" onClick={console.log("hi")}>
@@ -55,3 +55,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default SecondComponent;

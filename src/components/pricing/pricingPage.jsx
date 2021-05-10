@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Switch, Route, withRouter } from "react-router-dom";
 import ReactPageScroller from "react-page-scroller";
 
 import FirstComponent from "./firstPage";
@@ -20,7 +19,6 @@ function PricingPage() {
 			<FirstComponent />
 			<SecondComponent />
 		</ReactPageScroller>
-		// <h1>hi</h1>
 	);
 }
 

@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
-import image4 from "../../assets/landing/Image4.png";
+// import image4 from "../../assets/landing/Image4.png";
 
 import "./thirdPage.scss";
 
-export default () => {
+const ThirdComponent = () => {
 	return (
 		<div className="third_main_container">
 			<div className="hamburgerMenu" onClick={console.log("hi")}>
@@ -15,7 +15,7 @@ export default () => {
 
 			<div className="title">EXP|CON</div>
 			<div className="top__button">
-				<Link to="/pricing">
+				<Link to="/speer-coop-frontend/pricing">
 					<button className="white_button">TRY IT NOW</button>
 				</Link>
 			</div>
@@ -35,3 +35,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default ThirdComponent;

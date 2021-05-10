@@ -5,11 +5,11 @@ import medium27 from "../../assets/landing/medium27.png";
 
 import "./secondPage.scss";
 
-export default () => {
+const SecondComponent = () => {
 	const [isPlaying, setIsPlaying] = useState(false);
 	const [audio] = useState(
 		new Audio(
-			"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3"
+			"https://ia800701.us.archive.org/17/items/Kalimba.mp3_377/Kalimba.mp3"
 		)
 	);
 
@@ -36,7 +36,7 @@ export default () => {
 
 			<div className="title">EXP|CON</div>
 			<div className="top__button">
-				<Link to="/pricing">
+				<Link to="/speer-coop-frontend/pricing">
 					<button className="white_button">TRY IT NOW</button>
 				</Link>
 			</div>
@@ -67,3 +67,5 @@ export default () => {
 		</div>
 	);
 };
+
+export default SecondComponent;
