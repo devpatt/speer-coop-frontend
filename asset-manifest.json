@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/speer-coop-frontend/static/css/main.9ac5cd61.chunk.css",
-    "main.js": "/speer-coop-frontend/static/js/main.d72bd520.chunk.js",
-    "main.js.map": "/speer-coop-frontend/static/js/main.d72bd520.chunk.js.map",
+    "main.js": "/speer-coop-frontend/static/js/main.f59ff53a.chunk.js",
+    "main.js.map": "/speer-coop-frontend/static/js/main.f59ff53a.chunk.js.map",
     "runtime-main.js": "/speer-coop-frontend/static/js/runtime-main.85c952dc.js",
     "runtime-main.js.map": "/speer-coop-frontend/static/js/runtime-main.85c952dc.js.map",
     "static/js/2.d6171bd8.chunk.js": "/speer-coop-frontend/static/js/2.d6171bd8.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.85c952dc.js",
     "static/js/2.d6171bd8.chunk.js",
     "static/css/main.9ac5cd61.chunk.css",
-    "static/js/main.d72bd520.chunk.js"
+    "static/js/main.f59ff53a.chunk.js"
   ]
 }
