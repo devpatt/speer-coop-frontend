@@ -14,9 +14,6 @@ function LandingPage() {
 	const [currentPage, setCurrentPage] = useState(() => 0);
 
 	return (
-		// <div className="Landing">
-		//   <h1>landing page</h1>
-		// </div>
 		<ReactPageScroller
 			pageOnChange={(pageNum) => {
 				setCurrentPage(pageNum);

@@ -7,6 +7,7 @@ function App() {
 	return (
 		<div className="App">
 			<Switch>
+				<Route path="/" exact component={LandingPage} />
 				<Route
 					path="/speer-coop-frontend"
 					exact
