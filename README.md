@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Speer Front-end Assessment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
 
-## Available Scripts
+This quick project was put together rapidly for the Speer front-end developer co-op challenge for fall 2021 positions.
 
-In the project directory, you can run:
+## Completed Sections
 
-### `yarn start`
+#### Hero Section
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-   Three image slider
+    The slides change automatically after 10 seconds.
+-   Liquid Gradient CTA button
+    This button takes you to the pricing screen.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Section 2: RED
 
-### `yarn test`
+-   When you click the speakers it starts playing music
+-   Click again to turn the music off
+-   White CTA Buttons should have a hover effect
+-   The ‘Try it now’ button takes you to the pricing screen
+-   The ‘see demo’ button doesn’t link to anything for the purpose of this assessment.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Section 3: YELLOW
 
-### `yarn build`
+-   When you hover over different areas of the page, more of the background image should reveal itself (NOT COMPLETED)
+-   If you hover over the text, the text should invert in colour while the image is behind it (NOT COMPLETED)
+-   White CTA Buttons have a hover effect
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   The ‘Try it now’ button takes you to the pricing screen
+-   The ‘see demo’ button doesn’t link to anything for the purpose of this assessment.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Section 4: Perks
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   The ‘Try it now’ button takes you to the pricing screen
+    This button has the same animation as the hero section CTA.
 
-### `yarn eject`
+#### Section 5: Reviews
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-   White CTA Buttons should have a hover effect
+-   The ‘Try it now’ button should take you to the pricing screen
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Section 6: Get EXP|CON now
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+-   The ‘Try it now’ button takes you to the pricing screen
+-   This button has the same animation as the hero section CTA.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### Screen: Pricing
 
-## Learn More
+-   Screen designed according to mocks, no additional routing done from here.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Hosted code
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This app is hosted and available to test out at the link below:
