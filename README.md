@@ -12,6 +12,7 @@ This quick project was put together rapidly for the Speer front-end developer co
     The slides change automatically after 10 seconds.
 -   Liquid Gradient CTA button
     This button takes you to the pricing screen.
+-   Clicking on the hamburger menu should expand it (NOT COMPLETED)
 
 #### Section 2: RED
 
