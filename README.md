@@ -53,3 +53,4 @@ This quick project was put together rapidly for the Speer front-end developer co
 ## Hosted code
 
 This app is hosted and available to test out at the link below:
+https://devpatt.github.io/speer-coop-frontend/
