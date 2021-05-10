@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/speer-coop-frontend/static/css/main.9ac5cd61.chunk.css",
+    "main.js": "/speer-coop-frontend/static/js/main.d72bd520.chunk.js",
+    "main.js.map": "/speer-coop-frontend/static/js/main.d72bd520.chunk.js.map",
+    "runtime-main.js": "/speer-coop-frontend/static/js/runtime-main.85c952dc.js",
+    "runtime-main.js.map": "/speer-coop-frontend/static/js/runtime-main.85c952dc.js.map",
+    "static/js/2.d6171bd8.chunk.js": "/speer-coop-frontend/static/js/2.d6171bd8.chunk.js",
+    "static/js/2.d6171bd8.chunk.js.map": "/speer-coop-frontend/static/js/2.d6171bd8.chunk.js.map",
+    "static/js/3.eeeef0e1.chunk.js": "/speer-coop-frontend/static/js/3.eeeef0e1.chunk.js",
+    "static/js/3.eeeef0e1.chunk.js.map": "/speer-coop-frontend/static/js/3.eeeef0e1.chunk.js.map",
+    "index.html": "/speer-coop-frontend/index.html",
+    "static/css/main.9ac5cd61.chunk.css.map": "/speer-coop-frontend/static/css/main.9ac5cd61.chunk.css.map",
+    "static/js/2.d6171bd8.chunk.js.LICENSE.txt": "/speer-coop-frontend/static/js/2.d6171bd8.chunk.js.LICENSE.txt",
+    "static/media/Image1.d9bf4608.png": "/speer-coop-frontend/static/media/Image1.d9bf4608.png",
+    "static/media/Image2.3f7e3447.png": "/speer-coop-frontend/static/media/Image2.3f7e3447.png",
+    "static/media/Image3.2b364746.png": "/speer-coop-frontend/static/media/Image3.2b364746.png",
+    "static/media/SmallSpeaker1-03.6b61794a.png": "/speer-coop-frontend/static/media/SmallSpeaker1-03.6b61794a.png",
+    "static/media/SmallSpeaker2-03.79194761.png": "/speer-coop-frontend/static/media/SmallSpeaker2-03.79194761.png",
+    "static/media/medium17.771514b8.png": "/speer-coop-frontend/static/media/medium17.771514b8.png",
+    "static/media/medium27.f22c4155.png": "/speer-coop-frontend/static/media/medium27.f22c4155.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c952dc.js",
+    "static/js/2.d6171bd8.chunk.js",
+    "static/css/main.9ac5cd61.chunk.css",
+    "static/js/main.d72bd520.chunk.js"
+  ]
+}
